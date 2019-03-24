@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL: 'https://git.heroku.com/real-world-vue1.git',
+  baseURL: 'https://real-world-vue1.herokuapp.com/',
   withCredentials: false,
   headers: {
     Accept: 'application/json',
