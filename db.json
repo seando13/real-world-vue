@@ -230,47 +230,9 @@
       "location": "Your House",
       "date": "",
       "time": "5:00",
-      "attendees": []
+      "attendees": [
+
+      ]
     }
   ]
 }
-// 20190329123710
-// https://raw.githubusercontent.com/Code-Pop/real-world-vue/lesson13-mutations%26actions2-finish/db.json
-​
-{
-  "events": [
-    {
-      "id": 1,
-      "title": "Beach Cleanup",
-      "date": "Aug 28 2018",
-      "time": "10:00",
-      "location": "Daytona Beach",
-      "description": "Let's clean up this beach.",
-      "organizer": "Adam Jahr",
-      "category": "sustainability",
-      "attendees": [
-        {
-          "id": "abc123",
-          "name": "Adam Jahr"
-        },
-        {
-          "id": "def456",
-          "name": "Gregg Pollack"
-        },
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Park Cleanup",
-      "date": "Nov 12 2018",
-      "time": "12:00",
-      "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "We're going to clean up this park.",
